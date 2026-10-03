@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of datlechin/flarum-signup-button.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-signup-button) or the [upstream repository](https://github.com/flatension/signup-button).
 
-**0** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v2.0.0-beta.1) · License: `MIT` · Flarum: `^2.0.0-beta`
+**3** versions archived · Latest: [`v2.0.0-beta.1`](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v2.0.0-beta.1) (stable: [`v0.1.0`](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v0.1.0)) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-12-30 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v0.1.0) |
+| `v0.1.1` | 2022-10-24 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v0.1.1) |
+| `v2.0.0-beta.1` | 2026-02-24 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/datlechin-flarum-signup-button/tree/archive/v2.0.0-beta.1) |
 
 Catalog entry: [packages/datlechin-flarum-signup-button.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-signup-button.json)
 
